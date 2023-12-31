@@ -1,11 +1,11 @@
 # Inspect-and-analyze-data-TikTok-Data
 Inspect and analyze data TikTok Data
 
-The purpose of this project is to investigate and understand the data provided. This data analysis project will:
+# The purpose of this project is to investigate and understand the data provided. This data analysis project will:
 Prepare dataset
 Compile summary information about the data
 Complete Exploratory Data Analysis and reveal insights contained in the data
-Do in-depth EDA, hypothesis testing, and statistical analysis
+Complete in-depth EDA, hypothesis testing, and statistical analysis
 The goal is to construct a dataframe in Python, perform a cursory inspection of the provided dataset.
 This activity has three parts:
 Part 1: Understand the situation
