@@ -1,5 +1,5 @@
 # Exploratory Data Analysis on TikTok Data
-Inspect and analyze data TikTok Data
+Exploratory Data Analysis on TikTok Data
 
 # The purpose of this project is to investigate and understand the data provided. 
 This data analysis project will:
